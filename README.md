@@ -297,7 +297,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | SMSNotif                      | PT Solusi Inovasi Bisnis                      | [Link](https://www.smsnotif.id)                       | ✅     | Kirim sms melalui REST API atau Laravel Notification.                                                           | API KEY     |
 | TimeApi                       | [Mininxd](https://github.com/mininxd)         | [Link](https://timeapi.mininxd.my.id)                 | ✅     | Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.                                             | `false`     |
 | Translasi                     | azharimm                                      | [Link](https://github.com/azharimm/api-translate)     | ✅     | API translasi dengan google translate/baidu translate engine.                                                   | `false`     |
-
+| Temp API                     | StudioVDK                                      | [Link](https://github.com/vikodk67)                   | ✅     | API temp mengunggah file sementara cocok untuk pengembang bot yang ingin penyimpanannya tetap hemat             | `false`     |
 <!-- API END -->
 
 ## Cara Berkontribusi
