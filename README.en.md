@@ -289,7 +289,7 @@ This file is translation from Original (Bahasa Indonesia).
 | SMSNotif                     | PT Solusi Inovasi Bisnis                      | [Link](https://www.smsnotif.id)                       | ✅     | Send SMS through REST API or Laravel Notification.                                       | API KEY        |
 | TimeApi                      | [mininxd](https://github.com/mininxd)         | [Link](https://timeapi.mininxd.my.id)                 | ✅     | API to display real-time UNIX-based time and date.                                       | `false`        |
 | Translasi                    | azharimm                                      | [Link](https://github.com/azharimm/api-translate)     | ✅     | Translation API with Google Translate/Baidu Translate engine.                            | `false`        |
-
+| Temp API                     | StudioVDK                                      | [Link](https://github.com/vikodk67)                  | ✅     | The temp API uploads temporary files, perfect for bot developers who want to keep storage efficient.  | `false`     |
 ### Weather
 
 | API Name                    | Developer                                   | Documentation                                                 | Status | Description                                                                                                                  | Authentication |
